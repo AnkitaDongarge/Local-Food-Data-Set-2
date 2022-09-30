@@ -46,5 +46,19 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fakdiet.in%2Fservices%2Fthalipeeth%2F&psig=AOvVaw2MiEpOKHmn5WWXf12L48Ri&ust=1664642659286000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCzmqf7vPoCFQAAAAAdAAAAABAD",
         "location": "https://g.page/panchakattu?share"
-    }
+    },
+    {
+        "id": 5,
+        "placeOfOrigin": "India",
+        "region": "Maharshtra",
+        "city": "Pune",
+        "food" : "Misel",
+        "type": "Street Food",
+        "foodEnergy": "176 kcal",
+        "rating": "4.3",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOKoR5czNAi2IyMOONGSeP28lU0ch0Ln9nM3Dx0=w1080-h608-p-no-v0",
+        "location": "https://maps.app.goo.gl/pBjES239FKttsGLD7"
+    },
+        
+
 ]
